@@ -1,4 +1,5 @@
 package com.azmqalabs.edaattestautomation.apppages.allapplicationpages;
+package com.azmqalabs.edaattestautomation.apppages.allappli;
 
 import org.openqa.selenium.NoSuchElementException;
 import org.openqa.selenium.WebDriver;
